@@ -1,0 +1,6 @@
+pyrogram
+tgcrypto
+pytgcalls
+youtube_dl
+spotipy
+python-telegram-bot==20.3
